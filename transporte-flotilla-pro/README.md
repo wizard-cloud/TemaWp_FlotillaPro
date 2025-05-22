@@ -14,7 +14,7 @@ Este es un tema de referencia basado en [_Underscores](https://underscores.me/),
 ## Archivos incluidos
 
 Asegúrate de que el nombre de tu archivo `.zip` (en este caso transporte-flotilla-pro.zip) contenga lo siguiente:
-
+```plain
 transporte-flotilla-pro.zip
 │
 ├── index.php
@@ -27,7 +27,7 @@ transporte-flotilla-pro.zip
   └── Camioneta_Nissan_2022.jpg
   └── Camioneta_Nissan_2022.jpg
 ---
-
+```
 ## Requisitos
 
 - Servidor web con **WordPress.org** instalado (no funciona en WordPress.com).
