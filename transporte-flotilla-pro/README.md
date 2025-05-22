@@ -2,7 +2,7 @@
 
 Este es un tema de referencia basado en [_Underscores](https://underscores.me/), diseñado para flotillas de transporte y servicios relacionados. Cuenta con las siguientes características:
 
-## 🚀 Características principales
+## Características principales
 
 - ✅ **Diseño responsivo 80%:** se adapta perfectamente a cualquier dispositivo (móvil, tablet, escritorio). Se sigue trabajando para llegar al 100%
 - ⚙️ **Compatible con Elementor:** totalmente editable con el constructor visual más popular.
@@ -11,7 +11,7 @@ Este es un tema de referencia basado en [_Underscores](https://underscores.me/),
 
 ---
 
-## 📦 Archivos incluidos
+## Archivos incluidos
 
 Asegúrate de que el nombre de tu archivo `.zip` (en este caso transporte-flotilla-pro.zip) contenga lo siguiente:
 
@@ -28,7 +28,7 @@ transporte-flotilla-pro.zip
   └── Camioneta_Nissan_2022.jpg
 ---
 
-## 🛠️ Requisitos
+## Requisitos
 
 - Servidor web con **WordPress.org** instalado (no funciona en WordPress.com).
 - PHP 7.4 o superior recomendado.
@@ -36,7 +36,7 @@ transporte-flotilla-pro.zip
 
 ---
 
-## 📥 Instrucciones de instalación
+## Instrucciones de instalación
 
 1. Comprime los archivos del tema en un `.zip` (por ejemplo: `transporte-flotilla-pro.zip`).
 2. Ingresa al panel de administración de tu WordPress.
@@ -47,7 +47,7 @@ transporte-flotilla-pro.zip
 
 ---
 
-## 🧑‍💻 Créditos y Licencia
+## Créditos y Licencia
 
 - Código libre de uso bajo la [Licencia GPL v2 o superior](https://www.gnu.org/licenses/gpl-2.0.html).
 - Desarrollado por: Myfred Marcial
@@ -57,7 +57,7 @@ transporte-flotilla-pro.zip
 
 ---
 
-## 📫 Contacto
+## Contacto
 
 Para sugerencias, mejoras o reportar errores, puedes contactarme por GitHub.
 
