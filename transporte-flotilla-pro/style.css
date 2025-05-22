@@ -1,0 +1,165 @@
+/*
+Theme Name: Transporte Flotilla Pro
+Author: Myfred Marcial
+Autor: [Myfred Marcial Méndez](https://www.linkedin.com/in/myfred-marcial-mendez)
+Description: Tema moderno y responsivo para empresas de transporte y flotillas. Ideal para empresas logísticas, taxis ejecutivos, o mudanzas.
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: transporte-flotilla3
+Tags: transporte, logística, vehículos, responsivo, empresa, flotilla
+*/
+
+body {
+  font-family: 'Segoe UI', sans-serif;
+  margin: 0;
+  padding: 0;
+  background: #f9f9f9;
+  color: #333;
+}
+
+header {
+  background: #003366;
+  color: white;
+  padding: 2rem;
+  text-align: center;
+}
+
+header h1 {
+  margin: 0;
+  font-size: 2.5rem;
+}
+
+nav {
+  background: #0055a5;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+nav a {
+  color: white;
+  text-decoration: none;
+  padding: 1rem;
+  font-weight: bold;
+}
+
+nav a:hover {
+  background: #007acc;
+}
+
+.hero {
+  background: url('images/banner.png') center/cover no-repeat;
+  color: white;
+  text-align: center;
+  padding: 5rem 2rem;
+}
+
+.hero h2 {
+  font-size: 3rem;
+  margin: 0 0 1rem;
+}
+
+.hero p {
+  font-size: 1.25rem;
+  margin-bottom: 2rem;
+}
+
+.hero .btn {
+  background: #007acc;
+  color: white;
+  padding: 1rem 2rem;
+  border: none;
+  text-decoration: none;
+  font-size: 1rem;
+  border-radius: 5px;
+}
+
+section {
+  padding: 3rem 2rem;
+  max-width: 1100px;
+  margin: 0 auto;
+}
+
+section h3 {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+  color: #003366;
+}
+
+.services, .fleet {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 2rem;
+}
+
+.card {
+  background: white;
+  padding: 2rem;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  text-align: center;
+}
+
+footer {
+  background: #003366;
+  color: white;
+  text-align: center;
+  padding: 2rem;
+  margin-top: 2rem;
+}
+
+/* Header base */
+.site-header {
+  background: #003366;
+  padding: 15px 0;
+}
+
+/* Contenedor interno */
+.site-header .container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+/* Logo */
+.site-logo img {
+  max-height: 50px;
+}
+
+/* Navegación */
+.site-nav .menu-items {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+}
+
+.site-nav .menu-items li {
+  margin-left: 20px;
+}
+
+.site-nav .menu-items a {
+  color: #fff;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.site-nav .menu-items a:hover {
+  color: #ffcc00;
+}
+
+.site-nav {
+  background-color: #003366;
+}
+
+
+@media (max-width: 768px) {
+  .hero h2 {
+    font-size: 2rem;
+  }
+
+  nav {
+    flex-direction: column;
+  }
+}
